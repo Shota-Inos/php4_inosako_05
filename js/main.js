@@ -2,13 +2,7 @@
 
 //ここは、githubには載せない
 var firebaseConfig = {
-    apiKey: "AIzaSyDxOIcKEoAXVmsJZPcjvIdvYAxLoRqioJ8",
-    authDomain: "dev20chat-4a05d.firebaseapp.com",
-    databaseURL: "https://dev20chat-4a05d-default-rtdb.firebaseio.com",
-    projectId: "dev20chat-4a05d",
-    storageBucket: "dev20chat-4a05d.appspot.com",
-    messagingSenderId: "804163968106",
-    appId: "1:804163968106:web:4df93c42b8839b91063e13"
+
   };
   
   // Initialize Firebase
